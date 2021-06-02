@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url:  jdbc:mysql://${DBHOSTNAME}:3306/${DBSCHEMA}
+    username: ${DBUSERNAME}
+    password: ${DBPASSWORD}
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+
+

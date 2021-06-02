@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+
+  api:
+    image: salomaocode/petshop
+    container_name: petshop_scheduler_api
+    ports:
+    - "8080:8081"
+    environment:
+      - DBHOSTNAME=us-cdbr-east-04.cleardb.com
+      - DBUSERNAME=b0e68f61ff3ca2
+      - DBPASSWORD=58106ec6
+      - DBSCHEMA=heroku_97ba000e2a41f14
