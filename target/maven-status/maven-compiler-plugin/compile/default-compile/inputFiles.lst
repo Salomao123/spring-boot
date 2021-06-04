@@ -1,4 +1,5 @@
 /home/zeluis/projetos/desafio/spring-boot/src/main/java/com/sippulse/pet/controller/AuthenticationController.java
+/home/zeluis/projetos/desafio/spring-boot/src/main/java/com/sippulse/pet/filters/JwtRequestFilter.java
 /home/zeluis/projetos/desafio/spring-boot/src/main/java/com/sippulse/pet/security/SecurityConfigurer.java
 /home/zeluis/projetos/desafio/spring-boot/src/main/java/com/sippulse/pet/PetSchedule.java
 /home/zeluis/projetos/desafio/spring-boot/src/main/java/com/sippulse/pet/models/AuthenticationRequest.java

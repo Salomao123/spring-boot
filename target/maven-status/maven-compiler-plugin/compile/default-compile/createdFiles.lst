@@ -8,6 +8,7 @@ com/sippulse/pet/controller/FuncionarioController.class
 com/sippulse/pet/repository/FuncionarioRepository.class
 com/sippulse/pet/service/interfaces/FuncionarioService.class
 com/sippulse/pet/models/AuthenticationResponse.class
+com/sippulse/pet/filters/JwtRequestFilter.class
 com/sippulse/pet/repository/PetRepository.class
 com/sippulse/pet/PetSchedule.class
 com/sippulse/pet/security/MyUserDetailsService.class
